@@ -126,6 +126,15 @@
         "zany"
       ],
       "id": "12"
+    },
+    {
+      "name": "Larry",
+      "species": "Lobster",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
